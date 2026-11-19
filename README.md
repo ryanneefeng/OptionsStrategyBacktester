@@ -119,7 +119,7 @@ Top performer (Long Straddle) vs. bottom performer (Iron Condor):
 ## Author
 
 **Ryan Feng**
-Cornell University | B.A. Mathematics, Minor: Computer Science | Class of 2029
+Cornell University | B.A. Mathematics | Class of 2029
 
 - LinkedIn: [linkedin.com/in/ryanneefeng](https://linkedin.com/in/ryanneefeng)
 - Email: ryanneefeng@gmail.com
